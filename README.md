@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NatanSchons
-- 👀 I’m interested in learning programming, I don't no specifically what.
+- 👀 I’m interested in learning programming, I don't know specifically what.
 - 🌱 I’m currently learning Java, HTML5 and CSS3
 - 💞️ I’m looking to collaborate on unique projects
 - 📫 natanschonsoficial@gmail.com
